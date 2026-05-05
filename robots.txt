@@ -49,4 +49,4 @@ Allow: /
 User-agent: ia_archiver
 Allow: /
 
-Sitemap: https://solapurnews.dominal.in/sitemap.xml
+Sitemap: https://solapurnewschannels.dominal.in/sitemap.xml
