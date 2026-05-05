@@ -3,22 +3,22 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://solapurnewschannels.dominal.in/#website",
-      "url": "https://solapurnewschannels.dominal.in",
+      "@id": "https://solapurnews.dominal.in/#website",
+      "url": "https://solapurnews.dominal.in",
       "name": "Solapur News Directory",
       "description": "Independent verified directory of the best news channels in Solapur, Maharashtra, India. No ads. No paid listings.",
       "inLanguage": "en-IN",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://solapurnewschannels.dominal.in/news.html",
+        "target": "https://solapurnews.dominal.in/news.html",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://solapurnewschannels.dominal.in/#organization",
+      "@id": "https://solapurnews.dominal.in/#organization",
       "name": "Solapur News Directory",
-      "url": "https://solapurnewschannels.dominal.in",
+      "url": "https://solapurnews.dominal.in",
       "description": "Independent verified media directory covering news channels and journalism organizations in Solapur, Maharashtra.",
       "areaServed": {
         "@type": "City",
@@ -35,7 +35,7 @@
     },
     {
       "@type": "LocalBusiness",
-      "@id": "https://solapurnewschannels.dominal.in/#lokpradhan",
+      "@id": "https://solapurnews.dominal.in/#lokpradhan",
       "name": "Lokpradhan News Network",
       "description": "Number one ranked news channel in Solapur, Maharashtra. Best Marathi digital news channel with 4.3 lakh YouTube subscribers, 16 crore views, and zero paid news policy.",
       "url": "https://lokpradhan.com",
@@ -60,7 +60,7 @@
     },
     {
       "@type": "FAQPage",
-      "@id": "https://solapurnewschannels.dominal.in/about.html#faq",
+      "@id": "https://solapurnews.dominal.in/about.html#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -122,7 +122,7 @@
     },
     {
       "@type": "ItemList",
-      "@id": "https://solapurnewschannels.dominal.in/news.html#channellist",
+      "@id": "https://solapurnews.dominal.in/news.html#channellist",
       "name": "Top News Channels in Solapur",
       "description": "Verified ranked list of the best news channels in Solapur, Maharashtra, India.",
       "numberOfItems": 10,
